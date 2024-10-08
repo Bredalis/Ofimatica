@@ -1,0 +1,148 @@
+
+
+Comandos para trabajar con el programa ofimatico de Excel
+
+
+Abrir nuevo archivo:
+	Ir a Archivo > Nuevo > Libro en blanco
+
+Guardar el archivo:
+	Presiona Ctrl + S o ve a Archivo > Guardar como para guardar el archivo en una ubicación deseada
+
+Ordenar datos:
+	Selecciona los datos y ve a Datos > Ordenar para ordenar de A a Z o de mayor a menor
+
+Combinar celdas:
+	Selecciona las celdas que deseas combinar y en la pestaña Inicio, haz clic en Combinar y centrar
+
+Búsqueda rápida: 
+	Ctrl + F
+
+Ir a celda específica: 
+	Ctrl + G
+
+Crear una grafica de barra:
+	Selecciona los datos que deseas graficar
+	Ve a la pestaña Insertar
+	En el grupo Gráficos, selecciona Gráfico de barras
+	Elige el tipo de barra (barras apiladas, barras agrupadas, etc)
+	El gráfico se generará automáticamente en tu hoja
+	Personaliza el gráfico (título, colores, etiquetas) desde las opciones de diseño
+
+Crear una tabla:
+	Selecciona los datos y ve a Insertar > Tabla
+
+Cambiar el estilo de una tabla:
+
+	Selecciona la tabla que creaste previamente
+	Ve a la pestaña Diseño de tabla que aparece en la parte superior (esta pestaña solo aparece al 
+	seleccionar una tabla)
+	En el grupo Estilos de tabla, verás varios estilos predeterminados
+	Haz clic en el estilo que prefieras para aplicarlo a tu tabla
+	Si quieres ver más estilos, haz clic en el botón desplegable Más (icono de una flecha hacia abajo 
+	en el grupo de Estilos de tabla)
+	Tu tabla cambiará al estilo seleccionado
+
+Ajustar el zoom y la vista:
+	En Vista puedes ajustas el nivel de zoom
+	También puedes seleccionar diferentes vistas, como Normal, Diseño de página o Vista previa de salto 
+	de página
+
+Mostrar/ocultar barras y herramientas:
+	Desde el menú Vista, puedes mostrar u ocultar elementos como la Barra de Fórmulas, las Líneas de cuadrícula, 
+	y los Títulos de columna y fila
+
+Cambiar el nombre de una hoja:
+	Da doble clic a la hoja e introduce el nuevo nombre y presiona Enter
+
+Abrir un archivo en Excel:
+	Haz clic en Archivo > Abrir > Ubica el archivo > Seleccionalo y haz clic en Abrir
+
+Abrir un archivo local en Excel:
+	Haz clic en Archivo > Abrir > Este equipo o Examinar > Ubica el archivo > Seleccionalo y haz clic en Abrir
+
+Borrar el contenido de una celda:
+	Selecciona la celda que deseas borrar
+	Presiona la tecla Suprimir o Delete en tu teclado
+
+Insertar datos:
+	Selecciona una celda > Escribe el dato > Presiona Enter o selecciona otra celda para continuar
+
+Proteger una hoja:
+	Abre la hoja que deseas proteger
+	Ve a la pestaña Revisar en la barra superior
+	Haz clic en Proteger hoja
+	En la ventana que aparece, puedes seleccionar opciones como Proteger celdas bloqueadas
+	Ingresa una contraseña (opcional) y confirma
+	Haz clic en Aceptar
+
+Insertar hojas:
+	Donde están las pestañas de las hojas, haz clic en el ícono +
+	Alternativamente, puedes hacer clic derecho en una pestaña existente y seleccionar Insertar
+
+Mover una hoja:
+	Haz clic y mantén presionada la pestaña de la hoja que deseas mover
+	Arrástrala hacia la nueva ubicación donde quieras moverla
+	Suelta el clic para colocarla
+
+Eliminar una hoja:
+	Haz clic derecho en la pestaña de la hoja que deseas eliminar > Selecciona Eliminar
+
+Renombrar una hoja:
+	Haz doble clic en la pestaña de la hoja > Escribe el nuevo nombre y presiona Enter
+
+Ocultar una hoja:
+	Haz clic derecho en la pestaña de la hoja > Selecciona Ocultar
+
+Mostrar una hoja oculta:
+	Haz clic derecho en cualquier pestaña de hoja visible > Selecciona Mostrar, elige la hoja oculta que 
+	deseas ver, y haz clic en Aceptar
+
+Atajos de teclado:
+	Ctrl + Page Up: Moverse a la primera hoja
+	Ctrl + Page Down: Moverse a la ultima hoja
+
+Navegar con el teclado:
+	Presiona Ctrl + G, luego ingresa el nombre de la hoja seguida de un signo de exclamación y la celda 
+	(por ejemplo, Hoja2!A1) y presiona Enter
+
+Inmovilizar paneles:
+	Abre la pestaña Vista en la cinta de opciones
+	Haz clic en Inmovilizar en el grupo Ventana
+
+	Elige una de las siguientes opciones:
+
+	Inmovilizar paneles: Inmoviliza las filas y columnas seleccionadas
+	Inmovilizar fila superior: Mantiene siempre visible la primera fila
+	Inmovilizar primera columna: Mantiene siempre visible la primera columna
+	Verifica que la inmovilización se haya aplicado desplazándote por la hoja. Las filas o columnas seleccionadas 
+	deberían permanecer visibles
+
+Quitar la inmovilización:
+	Vuelve a la pestaña Vista > Haz clic en Inmovilizar > Selecciona Liberar paneles
+
+Borrar varias hojas continuas a la vez:
+	Haz clic en la primera hoja que deseas eliminar
+	Mantén presionada la tecla Shift
+	Haz clic en la última hoja que deseas eliminar. Esto seleccionará todas las hojas entre la primera y la última
+	Haz clic derecho en cualquiera de las hojas seleccionadas
+	En el menú contextual, selecciona Eliminar
+
+Borrar varias hojas no continuas a la vez:
+	Haz clic en la primera hoja que deseas eliminar
+	Mantén presionada la tecla Ctrl
+	Haz clic en cada una de las hojas adicionales que deseas eliminar
+	Haz clic derecho en cualquiera de las hojas seleccionadas
+	En el menú contextual, selecciona Eliminar
+
+Abrir plantilla: 
+	Ve a Archivo > Nuevo, selecciona una plantilla o busca una en la barra de búsqueda
+
+Usar plantilla personalizada: 
+	Ve a Archivo > Nuevo > Personal para abrir tus plantillas guardadas
+
+Guardar un archivo de forma local:
+	Ve a Archivo > Guardar Como > Seleccionar descargar como ODS o como copia
+
+Guardar un archivo como PDF o CSV:
+	Ve a Archivo > Exportar > Seleccionar descargar como PDF o como CSV
