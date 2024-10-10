@@ -146,3 +146,184 @@ Guardar un archivo de forma local:
 
 Guardar un archivo como PDF o CSV:
 	Ve a Archivo > Exportar > Seleccionar descargar como PDF o como CSV
+
+Seleccionar toda una columna:
+	Presiona la letra de la columna
+
+Seleccionar toda una fila:
+	Presiona la letra de una fila
+
+Seleccionar todas las celdas:
+	Presionar el simbolo lateral izquierdo que esta al lado de la columna A y la fila 1
+
+Cambiar el ancho de una columna:
+	Selecciona la columna > Haz clic derecho > Ancho de columna > Ancho personalizado > 
+	Agrega el nuevo valor > Aceptar
+
+Cambiar el alto de una fila:
+	Selecciona la fila > Haz clic derecho > Alto de fila > Ancho personalizado > 
+	Agrega el nuevo valor > Aceptar
+
+Autoajustar columnas o filas:
+	Selecciona las celdas > ve a formato en Inicio > Selecciona Autoajustar altura de fila o columna
+
+Para insertar una hoja nueva:
+	Ve a Inicio > Insertar > Haz clic en Insertar hoja
+
+Para insertar una fila nueva:
+	Selecciona una fila > Ve a Inicio > Insertar > Haz clic en Insertar filas de hoja
+
+Para insertar una columna nueva:
+	Selecciona una columna > Ve a Inicio > Insertar > Haz clic en Insertar columnas de hoja
+
+Seleccionar varias filas o columnas a la vez:
+	Seleccionar una fila o columna > Presionar Shift (Mantenlo presionado) > Seleccionar la última fila
+
+Cambiar posicion de una fila o columna:
+	Selecionar la fila o columna > Seleccionar unos 6 puntos que estan arriba de la columna > 
+	Mover la columna al lugar querido
+
+Para eliminar una hoja:
+	Ve a Inicio > Eliminar > Haz clic en Eliminar hoja
+
+Para eliminar una fila:
+	Selecciona una fila > Ve a Inicio > Eliminar > Haz clic en Eliminar filas de hoja
+
+Para eliminar una columna:
+	Selecciona una columna > Ve a Inicio > Eliminar > Haz clic en Eliminar columnas de hoja
+
+Para ocultar una fila:
+	Selecciona una fila > Ve a Inicio > Formato > Ocultar y mostrar > Haz clic en Ocultar filas
+
+Para ocultar una columna:
+	Selecciona una columna > Ve a Inicio > Formato > Ocultar y mostrar > Haz clic en Ocultar columnas
+
+Para ocultar una hoja:
+	Ve a Inicio > Formato > Ocultar y mostrar > Haz clic en Ocultar hoja
+
+Para mostrar una fila:
+	Selecciona las filas adyacentes a la fila oculta > Ve a Inicio > Formato > Ocultar y mostrar > 
+	Haz clic en Mostrar filas
+
+Para mostrar una columna:
+	Selecciona las columnas adyacentes a la columna oculta > Ve a Inicio > Formato > Ocultar y mostrar > 
+	Haz clic en Mostrar columnas
+
+Para mostrar una hoja:
+	Haz clic derecho en cualquier pestaña de hoja > Selecciona Mostrar > Elige la hoja que deseas mostrar y 
+	haz clic en Aceptar
+
+Deshacer acciones:
+	Ctrl + Z
+
+Rehacer acciones:
+	Ctrl + Y
+
+Para cortar:
+	Selecciona la celda o rango de celdas que deseas cortar 
+	Haz clic derecho y selecciona Cortar o presiona Ctrl + X en el teclado
+
+Para copiar:
+	Selecciona la celda o rango de celdas que deseas copiar 
+	Haz clic derecho y selecciona Copiar o presiona Ctrl + C en el teclado
+
+Para pegar:
+	Selecciona la celda donde deseas pegar los datos
+	Haz clic derecho y selecciona Pegar o presiona Ctrl + V en el teclado
+
+Pegado especial:
+	Selecciona la celda donde deseas pegar > Haz clic derecho >
+	Elige Pegado especial o haz clic en la flecha debajo del botón Pegar en la pestaña Inicio
+
+	Selecciona una de las siguientes opciones:
+		Fórmulas: Solo pega las fórmulas
+		Valores: Pega solo los valores, sin formato ni fórmulas
+		Formato: Pega solo el formato de las celdas copiadas
+		Sin bordes: Pega el contenido sin bordes
+		Transponer: Cambia filas por columnas al pegar
+		Suma / Restar: Realiza operaciones matemáticas durante el pegado
+
+Pegar solo formato:
+	Copia el formato sin el contenido de las celdas > Selecciona la celda > Haz clic en Pegar > 
+	Elige Formato
+	
+Borrar los datos del portapapeles:
+	Presionar Esc
+
+Buscar y reemplazar datos:
+	Ve a inicio > Grupo Edición > Buscar y seleccionar > Reemplazar > Escribe el texto a buscar en Buscar >
+	Escribe el texto a reemplazar en Reemplazar con > Haz clic en Reemplazar o Reemplazar todos 
+
+Para ubicarse en una celda o rango:
+	Inicio > Grupo Edición > Buscar y seleccionar > Ir a > Especifica una celda o rango > Haz clic en Aceptar
+
+Buscar palabras especificas:
+	Inicio > Grupo Edición > Buscar y seleccionar > Buscar > Escribe el texto a buscar en Buscar >
+	Haz clic en Buscar siguiente
+
+Intriducior formulas:
+	Selecciona una celda > Escribe el signo = > Escribe la fórmula o función (por ejemplo, =SUM(A1:A5) para sumar) >
+	Presiona Enter
+
+Borrar varios datos a la vez:
+	Seleccionar las celdas > Presionar Delete
+
+Crear una lista:
+	Selecciona el rango de celdas donde quieres crear la lista > Ve a la pestaña Datos en la barra de herramientas >
+	Haz clic en Validación de datos > Selecciona Lista en el menú desplegable > Especifica los valores de la lista 
+	(escribiendo los valores separados por comas o seleccionando un rango de celdas) > Haz clic en Aceptar
+
+Usar una lista:
+	Haz clic en la celda donde está la lista > Haz clic en la flecha que aparece en la celda > Selecciona un valor de la 
+	lista desplegable
+
+Usar las opciones de Autorrelleno:
+	Escribe un valor en una celda > Selecciona la celda > Coloca el cursor en la esquina inferior derecha de la celda 
+	(aparecerá un pequeño cuadro) > Arrastra el cuadro hacia abajo o hacia los lados para rellenar las celdas adyacentes
+	Suelta el cursor para aplicar el autorrelleno
+
+Personalización de Autorrelleno:
+	Haz clic en el pequeño ícono de Autorrelleno que aparece después de arrastrar > Selecciona una opción del menú 
+	(como copiar celdas, rellenar series, rellenar con solo los valores, etc)
+
+Ordenar datos con Ordenar y Filtrar:
+	Selecciona el rango de celdas que deseas ordenar
+		Ve a la pestaña Datos en la barra de herramientas
+		Haz clic en Ordenar y Filtrar
+		Elige una opción:
+
+		Ordenar de A a Z (ascendente)
+		Ordenar de Z a A (descendente)
+
+Orden personalizado:
+	Haz clic en Ordenar (en el menú de Ordenar y Filtrar)
+	Selecciona la columna por la cual deseas ordenar
+	Elige el criterio de orden (valores, colores, etc)
+	Haz clic en Aceptar
+
+Filtrar datos:
+	Selecciona el rango de celdas o tabla
+	Ve a Datos y haz clic en Filtro
+	Haz clic en las flechas de los encabezados para aplicar los filtros
+
+Aplicar Autofiltros:
+	Selecciona el rango de celdas o la tabla con datos que deseas filtrar
+	Ve a la pestaña Datos en la barra de herramientas
+	Haz clic en Filtro (en el grupo Ordenar y Filtrar)
+	Aparecerán flechas desplegables en los encabezados de las columnas
+	Haz clic en la flecha del encabezado de la columna que deseas filtrar
+	Selecciona los criterios de filtro (puedes elegir valores específicos o aplicar filtros numéricos, de texto, de fecha, etc)
+	Haz clic en Aceptar
+
+Importar archivos:
+	ve a la pestaña Datos en la barra de herramientas
+	En el grupo Obtener y transformar datos, selecciona una de las siguientes opciones:
+		Desde texto/CSV: Para importar archivos .txt o .csv
+		Desde un libro: Para importar datos desde otro archivo de Excel
+		Desde la Web: Para obtener datos desde una página web
+		Desde una base de datos: Para importar datos desde una base de datos (SQL, Access, etc)
+	
+	Selecciona el archivo que deseas importar
+	Haz clic en Importar
+	Sigue las instrucciones del Asistente de importación para configurar el formato y las columnas (si es necesario)
+	Haz clic en Cargar para que los datos se importen a tu hoja de cálculo
