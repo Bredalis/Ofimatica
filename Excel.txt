@@ -1,329 +1,463 @@
 
 
-Comandos para trabajar con el programa ofimatico de Excel
+Comandos para trabajar con el programa ofimático de Excel
 
 
-Abrir nuevo archivo:
-	Ir a Archivo > Nuevo > Libro en blanco
+Abrir nuevo archivo:  
+	Ir a Archivo > Nuevo > Libro en blanco.
 
-Guardar el archivo:
-	Presiona Ctrl + S o ve a Archivo > Guardar como para guardar el archivo en una ubicación deseada
+Guardar el archivo:  
+	Presiona Ctrl + S o ve a Archivo > Guardar como para guardarlo en la ubicación deseada.
 
-Ordenar datos:
-	Selecciona los datos y ve a Datos > Ordenar para ordenar de A a Z o de mayor a menor
+Ordenar datos:  
+	Selecciona los datos y ve a Datos > Ordenar para ordenarlos de A a Z o de mayor a menor.
 
-Combinar celdas:
-	Selecciona las celdas que deseas combinar y en la pestaña Inicio, haz clic en Combinar y centrar
+Combinar celdas:  
+	Selecciona las celdas que deseas combinar y, en la pestaña Inicio, haz clic en Combinar y centrar.
 
-Búsqueda rápida: 
-	Ctrl + F
+Búsqueda rápida:  
+	Presiona Ctrl + F.
 
-Ir a celda específica: 
-	Ctrl + G
+Ir a una celda específica:  
+	Presiona Ctrl + G.
 
-Crear una grafica de barra:
-	Selecciona los datos que deseas graficar
-	Ve a la pestaña Insertar
-	En el grupo Gráficos, selecciona Gráfico de barras
-	Elige el tipo de barra (barras apiladas, barras agrupadas, etc)
-	El gráfico se generará automáticamente en tu hoja
-	Personaliza el gráfico (título, colores, etiquetas) desde las opciones de diseño
+Crear un gráfico de barras:  
+	1. Selecciona los datos que deseas graficar.  
+	2. Ve a la pestaña Insertar.  
+	3. En el grupo Gráficos, selecciona Gráfico de barras.  
+	4. Elige el tipo de barra.  
+	5. El gráfico se generará automáticamente en tu hoja.  
+	6. Personaliza el gráfico desde las opciones de diseño.
 
-Crear una tabla:
-	Selecciona los datos y ve a Insertar > Tabla
+Crear una tabla:  
+	Selecciona los datos y ve a Insertar > Tabla.
 
-Cambiar el estilo de una tabla:
+Cambiar el estilo de una tabla:  
+	1. Selecciona la tabla.  
+	2. Ve a la pestaña Diseño de tabla.  
+	3. En el grupo Estilos de tabla, selecciona el estilo que prefieras.  
+	4. Si deseas más opciones, haz clic en Más.  
+	5. La tabla cambiará al estilo seleccionado.
 
-	Selecciona la tabla que creaste previamente
-	Ve a la pestaña Diseño de tabla que aparece en la parte superior (esta pestaña solo aparece al 
-	seleccionar una tabla)
-	En el grupo Estilos de tabla, verás varios estilos predeterminados
-	Haz clic en el estilo que prefieras para aplicarlo a tu tabla
-	Si quieres ver más estilos, haz clic en el botón desplegable Más (icono de una flecha hacia abajo 
-	en el grupo de Estilos de tabla)
-	Tu tabla cambiará al estilo seleccionado
+Ajustar el zoom y la vista:  
+	En Vista, ajusta el nivel de zoom o selecciona diferentes vistas como Normal, Diseño de página, o Vista previa de salto de página.
 
-Ajustar el zoom y la vista:
-	En Vista puedes ajustas el nivel de zoom
-	También puedes seleccionar diferentes vistas, como Normal, Diseño de página o Vista previa de salto 
-	de página
+Mostrar/ocultar barras y herramientas:  
+	En el menú Vista, puedes mostrar u ocultar la Barra de fórmulas, las Líneas de cuadrícula, y los Títulos de columna y fila.
 
-Mostrar/ocultar barras y herramientas:
-	Desde el menú Vista, puedes mostrar u ocultar elementos como la Barra de Fórmulas, las Líneas de cuadrícula, 
-	y los Títulos de columna y fila
+Cambiar el nombre de una hoja:  
+	Haz doble clic en la hoja, introduce el nuevo nombre y presiona Enter.
 
-Cambiar el nombre de una hoja:
-	Da doble clic a la hoja e introduce el nuevo nombre y presiona Enter
+Abrir un archivo en Excel:  
+	Haz clic en Archivo > Abrir > Examinar, selecciona el archivo y haz clic en Abrir.
 
-Abrir un archivo en Excel:
-	Haz clic en Archivo > Abrir > Ubica el archivo > Seleccionalo y haz clic en Abrir
+Borrar el contenido de una celda:  
+	Selecciona la celda y presiona Suprimir o Delete.
 
-Abrir un archivo local en Excel:
-	Haz clic en Archivo > Abrir > Este equipo o Examinar > Ubica el archivo > Seleccionalo y haz clic en Abrir
+Insertar datos:  
+	Selecciona una celda > Escribe el dato > Presiona Enter o selecciona otra celda para continuar.
 
-Borrar el contenido de una celda:
-	Selecciona la celda que deseas borrar
-	Presiona la tecla Suprimir o Delete en tu teclado
+Proteger una hoja:  
+	1. Abre la hoja que deseas proteger.  
+	2. Ve a la pestaña Revisar.  
+	3. Haz clic en Proteger hoja.  
+	4. Selecciona las opciones deseadas (ej. proteger celdas bloqueadas).  
+	5. Ingresa una contraseña (opcional) y confirma.  
+	6. Haz clic en Aceptar.
 
-Insertar datos:
-	Selecciona una celda > Escribe el dato > Presiona Enter o selecciona otra celda para continuar
+Insertar hojas:  
+	Haz clic en el ícono + en las pestañas de las hojas, o haz clic derecho en una pestaña existente y selecciona Insertar.
 
-Proteger una hoja:
-	Abre la hoja que deseas proteger
-	Ve a la pestaña Revisar en la barra superior
-	Haz clic en Proteger hoja
-	En la ventana que aparece, puedes seleccionar opciones como Proteger celdas bloqueadas
-	Ingresa una contraseña (opcional) y confirma
-	Haz clic en Aceptar
+Mover una hoja:  
+	Haz clic y mantén presionada la pestaña de la hoja > Arrástrala a la nueva ubicación > Suelta el clic para moverla.
 
-Insertar hojas:
-	Donde están las pestañas de las hojas, haz clic en el ícono +
-	Alternativamente, puedes hacer clic derecho en una pestaña existente y seleccionar Insertar
+Eliminar una hoja:  
+	Haz clic derecho en la pestaña de la hoja > Selecciona Eliminar.
 
-Mover una hoja:
-	Haz clic y mantén presionada la pestaña de la hoja que deseas mover
-	Arrástrala hacia la nueva ubicación donde quieras moverla
-	Suelta el clic para colocarla
+Renombrar una hoja:  
+	Haz doble clic en la pestaña de la hoja > Escribe el nuevo nombre > Presiona Enter.
 
-Eliminar una hoja:
-	Haz clic derecho en la pestaña de la hoja que deseas eliminar > Selecciona Eliminar
+Ocultar una hoja:  
+	Haz clic derecho en la pestaña de la hoja > Selecciona Ocultar.
 
-Renombrar una hoja:
-	Haz doble clic en la pestaña de la hoja > Escribe el nuevo nombre y presiona Enter
+Mostrar una hoja oculta:  
+	Haz clic derecho en cualquier pestaña visible > Selecciona Mostrar, elige la hoja y haz clic en Aceptar.
 
-Ocultar una hoja:
-	Haz clic derecho en la pestaña de la hoja > Selecciona Ocultar
+Atajos de teclado:  
+	- Ctrl + Page Up: Moverse a la hoja anterior.  
+	- Ctrl + Page Down: Moverse a la siguiente hoja.
 
-Mostrar una hoja oculta:
-	Haz clic derecho en cualquier pestaña de hoja visible > Selecciona Mostrar, elige la hoja oculta que 
-	deseas ver, y haz clic en Aceptar
+Navegar con el teclado:  
+	Presiona Ctrl + G, ingresa el nombre de la hoja seguido de una celda (ej. Hoja2!A1) y presiona Enter.
 
-Atajos de teclado:
-	Ctrl + Page Up: Moverse a la primera hoja
-	Ctrl + Page Down: Moverse a la ultima hoja
+Inmovilizar paneles:  
+	1. Abre la pestaña Vista.  
+	2. Haz clic en Inmovilizar.  
+	3. Elige una opción:
+	   - Inmovilizar paneles: Fija filas y columnas seleccionadas.
+	   - Inmovilizar fila superior: Mantén visible la primera fila.
+	   - Inmovilizar primera columna: Mantén visible la primera columna.
 
-Navegar con el teclado:
-	Presiona Ctrl + G, luego ingresa el nombre de la hoja seguida de un signo de exclamación y la celda 
-	(por ejemplo, Hoja2!A1) y presiona Enter
+Quitar la inmovilización:  
+	Ve a Vista > Inmovilizar > Liberar paneles.
 
-Inmovilizar paneles:
-	Abre la pestaña Vista en la cinta de opciones
-	Haz clic en Inmovilizar en el grupo Ventana
+Eliminar varias hojas continuas:  
+	1. Haz clic en la primera hoja.  
+	2. Mantén presionada Shift.  
+	3. Haz clic en la última hoja > Haz clic derecho > Selecciona Eliminar.
 
-	Elige una de las siguientes opciones:
+Eliminar varias hojas no continuas:  
+	1. Haz clic en la primera hoja.  
+	2. Mantén presionada Ctrl.  
+	3. Haz clic en las hojas adicionales > Haz clic derecho > Selecciona Eliminar.
 
-	Inmovilizar paneles: Inmoviliza las filas y columnas seleccionadas
-	Inmovilizar fila superior: Mantiene siempre visible la primera fila
-	Inmovilizar primera columna: Mantiene siempre visible la primera columna
-	Verifica que la inmovilización se haya aplicado desplazándote por la hoja. Las filas o columnas seleccionadas 
-	deberían permanecer visibles
+Abrir plantilla:  
+	Ve a Archivo > Nuevo, selecciona una plantilla o búscala en la barra de búsqueda.
 
-Quitar la inmovilización:
-	Vuelve a la pestaña Vista > Haz clic en Inmovilizar > Selecciona Liberar paneles
+Usar plantilla personalizada:  
+	Ve a Archivo > Nuevo > Personal para abrir tus plantillas guardadas.
 
-Borrar varias hojas continuas a la vez:
-	Haz clic en la primera hoja que deseas eliminar
-	Mantén presionada la tecla Shift
-	Haz clic en la última hoja que deseas eliminar. Esto seleccionará todas las hojas entre la primera y la última
-	Haz clic derecho en cualquiera de las hojas seleccionadas
-	En el menú contextual, selecciona Eliminar
+Guardar un archivo localmente:  
+	Ve a Archivo > Guardar como > Descargar como ODS o como copia.
 
-Borrar varias hojas no continuas a la vez:
-	Haz clic en la primera hoja que deseas eliminar
-	Mantén presionada la tecla Ctrl
-	Haz clic en cada una de las hojas adicionales que deseas eliminar
-	Haz clic derecho en cualquiera de las hojas seleccionadas
-	En el menú contextual, selecciona Eliminar
+Guardar un archivo como PDF o CSV:  
+	Ve a Archivo > Exportar > Descargar como PDF o CSV.
 
-Abrir plantilla: 
-	Ve a Archivo > Nuevo, selecciona una plantilla o busca una en la barra de búsqueda
+Seleccionar toda una columna:  
+	Presiona la letra de la columna.
 
-Usar plantilla personalizada: 
-	Ve a Archivo > Nuevo > Personal para abrir tus plantillas guardadas
+Seleccionar toda una fila:  
+	Presiona el número de la fila.
 
-Guardar un archivo de forma local:
-	Ve a Archivo > Guardar Como > Seleccionar descargar como ODS o como copia
+Seleccionar todas las celdas:  
+	Haz clic en el símbolo en la esquina superior izquierda, al lado de la columna A y la fila 1.
 
-Guardar un archivo como PDF o CSV:
-	Ve a Archivo > Exportar > Seleccionar descargar como PDF o como CSV
+Cambiar el ancho de una columna:  
+	Selecciona la columna > Haz clic derecho > Ancho de columna > Ingresa el nuevo valor > Aceptar.
 
-Seleccionar toda una columna:
-	Presiona la letra de la columna
+Cambiar el alto de una fila:  
+	Selecciona la fila > Haz clic derecho > Alto de fila > Ingresa el nuevo valor > Aceptar.
 
-Seleccionar toda una fila:
-	Presiona la letra de una fila
+Autoajustar columnas o filas:  
+	Selecciona las celdas > Ve a Inicio > Formato > Autoajustar altura de fila o Autoajustar ancho de columna.
 
-Seleccionar todas las celdas:
-	Presionar el simbolo lateral izquierdo que esta al lado de la columna A y la fila 1
+Insertar una nueva hoja:  
+	Ve a Inicio > Insertar > Haz clic en Insertar hoja.
 
-Cambiar el ancho de una columna:
-	Selecciona la columna > Haz clic derecho > Ancho de columna > Ancho personalizado > 
-	Agrega el nuevo valor > Aceptar
+Insertar una fila nueva:  
+	Selecciona una fila > Ve a Inicio > Insertar > Haz clic en Insertar filas de hoja.
 
-Cambiar el alto de una fila:
-	Selecciona la fila > Haz clic derecho > Alto de fila > Ancho personalizado > 
-	Agrega el nuevo valor > Aceptar
+Insertar una columna nueva:  
+	Selecciona una columna > Ve a Inicio > Insertar > Haz clic en Insertar columnas de hoja.
 
-Autoajustar columnas o filas:
-	Selecciona las celdas > ve a formato en Inicio > Selecciona Autoajustar altura de fila o columna
+Seleccionar varias filas o columnas a la vez:  
+	Selecciona una fila o columna > Mantén presionada Shift > Selecciona la última fila o columna que desees.
 
-Para insertar una hoja nueva:
-	Ve a Inicio > Insertar > Haz clic en Insertar hoja
+Cambiar la posición de una fila o columna:  
+	Selecciona la fila o columna > Usa el icono de seis puntos en la parte superior > Arrastra al lugar deseado.
 
-Para insertar una fila nueva:
-	Selecciona una fila > Ve a Inicio > Insertar > Haz clic en Insertar filas de hoja
+Eliminar una hoja:  
+	Ve a Inicio > Eliminar > Haz clic en Eliminar hoja.
 
-Para insertar una columna nueva:
-	Selecciona una columna > Ve a Inicio > Insertar > Haz clic en Insertar columnas de hoja
+Eliminar una fila:  
+	Selecciona una fila > Ve a Inicio > Eliminar > Haz clic en Eliminar filas de hoja.
 
-Seleccionar varias filas o columnas a la vez:
-	Seleccionar una fila o columna > Presionar Shift (Mantenlo presionado) > Seleccionar la última fila
+Eliminar una columna:  
+	Selecciona una columna > Ve a Inicio > Eliminar > Haz clic en Eliminar columnas de hoja.
 
-Cambiar posicion de una fila o columna:
-	Selecionar la fila o columna > Seleccionar unos 6 puntos que estan arriba de la columna > 
-	Mover la columna al lugar querido
+Ocultar una fila:  
+	Selecciona una fila > Ve a Inicio > Formato > Ocultar y mostrar > Haz clic en Ocultar filas.
 
-Para eliminar una hoja:
-	Ve a Inicio > Eliminar > Haz clic en Eliminar hoja
+Ocultar una columna:  
+	Selecciona una columna > Ve a Inicio > Formato > Ocultar y mostrar > Haz clic en Ocultar columnas.
 
-Para eliminar una fila:
-	Selecciona una fila > Ve a Inicio > Eliminar > Haz clic en Eliminar filas de hoja
+Ocultar una hoja:  
+	Ve a Inicio > Formato > Ocultar y mostrar > Haz clic en Ocultar hoja.
 
-Para eliminar una columna:
-	Selecciona una columna > Ve a Inicio > Eliminar > Haz clic en Eliminar columnas de hoja
+Mostrar una fila:  
+	Selecciona las filas adyacentes a la fila oculta > Ve a Inicio > Formato > Ocultar y mostrar > Haz clic en Mostrar filas.
 
-Para ocultar una fila:
-	Selecciona una fila > Ve a Inicio > Formato > Ocultar y mostrar > Haz clic en Ocultar filas
+Mostrar una columna:  
+	Selecciona las columnas adyacentes a la columna oculta > Ve a Inicio > Formato > Ocultar y mostrar > Haz clic en Mostrar columnas.
 
-Para ocultar una columna:
-	Selecciona una columna > Ve a Inicio > Formato > Ocultar y mostrar > Haz clic en Ocultar columnas
+Mostrar una hoja oculta:  
+	Haz clic derecho en cualquier pestaña visible > Mostrar > Selecciona la hoja que deseas y haz clic en Aceptar.
 
-Para ocultar una hoja:
-	Ve a Inicio > Formato > Ocultar y mostrar > Haz clic en Ocultar hoja
-
-Para mostrar una fila:
-	Selecciona las filas adyacentes a la fila oculta > Ve a Inicio > Formato > Ocultar y mostrar > 
-	Haz clic en Mostrar filas
-
-Para mostrar una columna:
-	Selecciona las columnas adyacentes a la columna oculta > Ve a Inicio > Formato > Ocultar y mostrar > 
-	Haz clic en Mostrar columnas
-
-Para mostrar una hoja:
-	Haz clic derecho en cualquier pestaña de hoja > Selecciona Mostrar > Elige la hoja que deseas mostrar y 
-	haz clic en Aceptar
-
-Deshacer acciones:
+Deshacer acciones:  
 	Ctrl + Z
 
-Rehacer acciones:
+Rehacer acciones:  
 	Ctrl + Y
 
-Para cortar:
-	Selecciona la celda o rango de celdas que deseas cortar 
-	Haz clic derecho y selecciona Cortar o presiona Ctrl + X en el teclado
+Cortar:  
+	Selecciona las celdas > Haz clic derecho > Cortar o presiona Ctrl + X.
 
-Para copiar:
-	Selecciona la celda o rango de celdas que deseas copiar 
-	Haz clic derecho y selecciona Copiar o presiona Ctrl + C en el teclado
+Copiar:  
+	Selecciona las celdas > Haz clic derecho > Copiar o presiona Ctrl + C.
 
-Para pegar:
-	Selecciona la celda donde deseas pegar los datos
-	Haz clic derecho y selecciona Pegar o presiona Ctrl + V en el teclado
+Pegar:  
+	Selecciona la celda donde deseas pegar > Haz clic derecho > Pegar o presiona Ctrl + V.
 
-Pegado especial:
-	Selecciona la celda donde deseas pegar > Haz clic derecho >
-	Elige Pegado especial o haz clic en la flecha debajo del botón Pegar en la pestaña Inicio
+Pegado especial:  
+	Selecciona la celda > Haz clic derecho > Pegado especial > Elige entre fórmulas, valores, formato, transponer, etc.
 
-	Selecciona una de las siguientes opciones:
-		Fórmulas: Solo pega las fórmulas
-		Valores: Pega solo los valores, sin formato ni fórmulas
-		Formato: Pega solo el formato de las celdas copiadas
-		Sin bordes: Pega el contenido sin bordes
-		Transponer: Cambia filas por columnas al pegar
-		Suma / Restar: Realiza operaciones matemáticas durante el pegado
+Pegar solo formato:  
+	Copia el formato sin el contenido > Selecciona la celda > Haz clic en Pegar > Formato.
 
-Pegar solo formato:
-	Copia el formato sin el contenido de las celdas > Selecciona la celda > Haz clic en Pegar > 
-	Elige Formato
-	
-Borrar los datos del portapapeles:
-	Presionar Esc
+Buscar y reemplazar:  
+	Ve a Inicio > Buscar y seleccionar > Reemplazar > Ingresa los textos en los campos correspondientes > Haz clic en Reemplazar o Reemplazar todos.
 
-Buscar y reemplazar datos:
-	Ve a inicio > Grupo Edición > Buscar y seleccionar > Reemplazar > Escribe el texto a buscar en Buscar >
-	Escribe el texto a reemplazar en Reemplazar con > Haz clic en Reemplazar o Reemplazar todos 
+Ubicarse en una celda o rango:  
+	Ve a Inicio > Buscar y seleccionar > Ir a > Ingresa la celda o rango > Haz clic en Aceptar.
 
-Para ubicarse en una celda o rango:
-	Inicio > Grupo Edición > Buscar y seleccionar > Ir a > Especifica una celda o rango > Haz clic en Aceptar
+Buscar palabras específicas:  
+	Ve a Inicio > Buscar y seleccionar > Buscar > Ingresa el texto a buscar > Haz clic en Buscar siguiente.
 
-Buscar palabras especificas:
-	Inicio > Grupo Edición > Buscar y seleccionar > Buscar > Escribe el texto a buscar en Buscar >
-	Haz clic en Buscar siguiente
-
-Intriducior formulas:
-	Selecciona una celda > Escribe el signo = > Escribe la fórmula o función (por ejemplo, =SUM(A1:A5) para sumar) >
-	Presiona Enter
+Introducir fórmulas:  
+	Selecciona una celda > Escribe = seguido de la fórmula (ej. =SUM(A1:A5)) > Presiona Enter.
 
 Borrar varios datos a la vez:
-	Seleccionar las celdas > Presionar Delete
+	Selecciona las celdas y presiona Delete para eliminarlas.
 
-Crear una lista:
-	Selecciona el rango de celdas donde quieres crear la lista > Ve a la pestaña Datos en la barra de herramientas >
-	Haz clic en Validación de datos > Selecciona Lista en el menú desplegable > Especifica los valores de la lista 
-	(escribiendo los valores separados por comas o seleccionando un rango de celdas) > Haz clic en Aceptar
+Crear una lista desplegable:
+	1. Selecciona las celdas donde quieres la lista.
+	2. Ve a Datos > Validación de datos.
+	3. Elige Lista y especifica los valores (escríbelos separados por comas o selecciona un rango de celdas).
+	4. Haz clic en Aceptar.
 
-Usar una lista:
-	Haz clic en la celda donde está la lista > Haz clic en la flecha que aparece en la celda > Selecciona un valor de la 
-	lista desplegable
+Usar la lista:
+	Haz clic en la celda con la lista, luego en la flecha desplegable, y selecciona un valor.
 
-Usar las opciones de Autorrelleno:
-	Escribe un valor en una celda > Selecciona la celda > Coloca el cursor en la esquina inferior derecha de la celda 
-	(aparecerá un pequeño cuadro) > Arrastra el cuadro hacia abajo o hacia los lados para rellenar las celdas adyacentes
-	Suelta el cursor para aplicar el autorrelleno
+Opciones de Autorrelleno:
+	Escribe un valor en una celda, selecciona la celda, arrastra desde la esquina inferior derecha para rellenar las celdas adyacentes.
 
 Personalización de Autorrelleno:
-	Haz clic en el pequeño ícono de Autorrelleno que aparece después de arrastrar > Selecciona una opción del menú 
-	(como copiar celdas, rellenar series, rellenar con solo los valores, etc)
+	Haz clic en el ícono de autorrelleno para seleccionar cómo rellenar (copiar celdas, rellenar series, solo valores, etc.).
 
-Ordenar datos con Ordenar y Filtrar:
-	Selecciona el rango de celdas que deseas ordenar
-		Ve a la pestaña Datos en la barra de herramientas
-		Haz clic en Ordenar y Filtrar
-		Elige una opción:
-
-		Ordenar de A a Z (ascendente)
-		Ordenar de Z a A (descendente)
-
-Orden personalizado:
-	Haz clic en Ordenar (en el menú de Ordenar y Filtrar)
-	Selecciona la columna por la cual deseas ordenar
-	Elige el criterio de orden (valores, colores, etc)
-	Haz clic en Aceptar
-
-Filtrar datos:
-	Selecciona el rango de celdas o tabla
-	Ve a Datos y haz clic en Filtro
-	Haz clic en las flechas de los encabezados para aplicar los filtros
+Ordenar y Filtrar datos:
+	- Para ordenar: Selecciona el rango, ve a Datos > Ordenar y Filtrar y elige una opción (A-Z o Z-A).
+	- Para ordenar personalizado: Haz clic en Ordenar, selecciona la columna y el criterio, y luego Aceptar.
+	- Para filtrar: Selecciona el rango de celdas, ve a Datos > Filtro y usa las flechas de los encabezados para aplicar filtros.
 
 Aplicar Autofiltros:
-	Selecciona el rango de celdas o la tabla con datos que deseas filtrar
-	Ve a la pestaña Datos en la barra de herramientas
-	Haz clic en Filtro (en el grupo Ordenar y Filtrar)
-	Aparecerán flechas desplegables en los encabezados de las columnas
-	Haz clic en la flecha del encabezado de la columna que deseas filtrar
-	Selecciona los criterios de filtro (puedes elegir valores específicos o aplicar filtros numéricos, de texto, de fecha, etc)
-	Haz clic en Aceptar
+	1. Selecciona el rango.
+	2. Ve a Datos > Filtro y usa las flechas desplegables en los encabezados para elegir filtros.
 
 Importar archivos:
-	ve a la pestaña Datos en la barra de herramientas
-	En el grupo Obtener y transformar datos, selecciona una de las siguientes opciones:
-		Desde texto/CSV: Para importar archivos .txt o .csv
-		Desde un libro: Para importar datos desde otro archivo de Excel
-		Desde la Web: Para obtener datos desde una página web
-		Desde una base de datos: Para importar datos desde una base de datos (SQL, Access, etc)
-	
-	Selecciona el archivo que deseas importar
-	Haz clic en Importar
-	Sigue las instrucciones del Asistente de importación para configurar el formato y las columnas (si es necesario)
-	Haz clic en Cargar para que los datos se importen a tu hoja de cálculo
+	1. Ve a Datos > Obtener y transformar datos.
+	2. Elige el origen (texto/CSV, otro libro de Excel, web, o base de datos).
+	3. Sigue las instrucciones del asistente y haz clic en Cargar.
+
+Establecer subtotales:
+	1. Selecciona los datos y ordénalos.
+	2. Ve a Datos > Subtotal.
+	3. Elige la columna y función (como Suma).
+	4. Usa los botones de nivel para ocultar o ver los subtotales.
+
+Cambiar formato de texto:
+	Selecciona una celda, ve a Inicio > Fuente y usa los iconos para aplicar Negrita, Cursiva, o Subrayado.
+
+Cambiar el tamaño y tipo de fuente:
+  1. Selecciona la celda.
+  2. Ve a la pestaña Inicio, en la sección Fuente.
+  3. Elige el tipo de letra y tamaño desde los menús desplegables.
+
+Cambiar color de fondo (relleno) de una celda:
+  1. Selecciona la celda.
+  2. Ve a la pestaña Inicio > Fuente.
+  3. Haz clic en el icono del cubo de pintura y selecciona un color.
+
+Cambiar color de texto:
+  1. Selecciona la celda.
+  2. Ve a la pestaña Inicio > Fuente.
+  3. Haz clic en el icono A subrayada y selecciona un color.
+
+Alineación de texto:
+  1. Selecciona la celda.
+  2. Ve a Inicio > Alineación.
+  3. Usa los iconos de alineación (izquierda, centro, derecha) o ajusta la orientación del texto.
+
+Agregar o modificar bordes:
+  1. Selecciona la celda.
+  2. Ve a Inicio > Fuente.
+  3. Haz clic en el icono de bordes y selecciona el tipo de borde (todos, superior, inferior, etc.).
+
+Combinar celdas:
+  1. Selecciona las celdas.
+  2. Ve a Inicio > Alineación.
+  3. Haz clic en Combinar y centrar.
+
+Agregar comentario:
+  1. Selecciona la celda.
+  2. Haz clic derecho y selecciona Nuevo comentario.
+  3. Escribe el comentario y haz clic fuera para guardarlo.
+
+Agregar una nota:
+  1. Selecciona la celda.
+  2. Haz clic derecho y selecciona Insertar nota.
+
+Aplicar estilo de celda:
+  1. Selecciona las celdas.
+  2. Ve a Inicio > Estilos de celda.
+  3. Elige un estilo o crea uno nuevo.
+
+Resaltar celdas con reglas predefinidas:
+  1. Selecciona las celdas.
+  2. Ve a Inicio > Formato condicional > Resaltar reglas de celdas.
+  3. Elige una opción como "Mayor que" o "Menor que", ingresa los valores y selecciona el formato.
+
+Aplicar barras de datos:
+  1. Selecciona las celdas.
+  2. Ve a Inicio > Formato condicional > Barras de datos.
+  3. Elige un color y estilo.
+
+Escalas de color:
+  1. Selecciona las celdas.
+  2. Ve a Inicio > Formato condicional > Escalas de color.
+  3. Selecciona una escala de colores (2 o 3 colores).
+
+Crear regla personalizada:
+  1. Selecciona las celdas.
+  2. Ve a Inicio > Formato condicional > Nueva regla.
+  3. Define las condiciones y el formato.
+
+Borrar formato condicional:
+  1. Selecciona las celdas.
+  2. Ve a Inicio > Formato condicional > Borrar reglas.
+
+Cambiar el formato de números:
+  1. Selecciona las celdas con números.
+  2. Ve a la pestaña Inicio.
+  3. Elige un formato de número desde el menú desplegable (Moneda, Porcentaje, Fecha, etc.).
+
+Gráficas:
+  1. Selecciona los datos que deseas graficar.
+  2. Ve a la pestaña Insertar.
+  3. Elige el tipo de gráfica que deseas (Columnas, Barras, Líneas, Circular, Dispersión).
+
+Restar una fecha con la actual:
+  1. Ingresa la fórmula =HOY()-"Día/Mes/Año".
+  2. Cambia el formato de la celda a Fecha si es necesario.
+
+Gráfica de Áreas:
+   1. Selecciona los datos.
+   2. Ve a la pestaña Insertar.
+   3. Haz clic en Gráfica de áreas.
+   4. Selecciona el tipo de gráfica que desees (simples, apiladas, 3D).
+
+Gráfica de Cascada:
+   1. Selecciona los datos.
+   2. Ve a Insertar > Cascada y Bursátil en el grupo de gráficas.
+   3. Escoge la opción de Gráfica de cascada.
+
+Gráfica de Mapas:
+   1. Selecciona los datos que contienen información geográfica (ciudades, países, etc.).
+   2. Ve a Insertar > Mapa.
+   3. Excel generará automáticamente un mapa basado en los datos seleccionados.
+
+Gráfica de Combo:
+   1. Selecciona los datos.
+   2. Ve a Insertar > Gráfica combinada.
+   3. Selecciona los tipos de gráficas que deseas combinar (por ejemplo, columnas y líneas).
+
+Insertar una imagen desde la web:
+   1. Ve a Insertar > Imágenes.
+   2. Selecciona Buscar imágenes en línea (puede ser Bing Imágenes u otro).
+   3. Busca la imagen que deseas y haz clic en Insertar.
+
+Insertar una imagen desde el dispositivo:
+   1. Ve a Insertar > Imágenes > Este dispositivo.
+   2. Busca la imagen en tu computadora y selecciona Abrir.
+
+Mover y cambiar el tamaño de una imagen:
+   1. Haz clic en la imagen para seleccionarla.
+   2. Para moverla, arrástrala a la nueva ubicación.
+   3. Para cambiar el tamaño, arrastra uno de los controladores en las esquinas de la imagen.
+
+Eliminar una imagen:
+   Selecciona la imagen y presiona la tecla Suprimir o Del.
+
+Editar imágenes:
+   1. Selecciona la imagen.
+   2. Aparecerá la pestaña Formato de imagen en la barra de herramientas.
+   3. Usa las opciones disponibles (cortar, girar, ajustar el brillo, etc.).
+
+Insertar un vínculo a una página web:
+   1. Selecciona la celda donde deseas insertar el vínculo.
+   2. Ve a Insertar > Vínculo.
+   3. Escribe la URL o selecciona un archivo.
+   4. Haz clic en Insertar.
+
+Insertar un vínculo a otra hoja de cálculo:
+   1. Selecciona la celda.
+   2. Ve a Insertar > Vínculo > Colocar en este documento.
+   3. Elige la hoja a la que deseas vincular y haz clic en Aceptar.
+
+Eliminar un vínculo:
+   1. Haz clic derecho en la celda que contiene el vínculo.
+   2. Selecciona Eliminar vínculo.
+
+Quitar formato de un hipervínculo:
+   1. Selecciona la celda y haz clic derecho.
+   2. Elige Quitar hipervínculo. Esto eliminará el formato de enlace, pero dejará el texto.
+
+Nombrar un rango de celdas:
+   1. Selecciona el rango de celdas.
+   2. Ve a Fórmulas > Asignar nombre.
+   3. Escribe el nombre y haz clic en Aceptar.
+
+Nombrar una celda:
+   1. Selecciona la celda.
+   2. Haz clic derecho y selecciona Definir nombre.
+   3. Escribe el nombre y presiona Aceptar.
+
+Ver los Nombres de Rangos:
+   1. Ve a Fórmulas.
+   2. Haz clic en Administrador de nombres.
+   3. Puedes elegir Nuevo (para crear un rango), Modificar (para cambiar un valor existente) o Eliminar (para borrar un rango).
+   4. Haz clic en Cerrar para salir del administrador.
+
+Usar un Rango (Ejemplo: Para Sumar):
+   1. Ve a Fórmulas > Asignar nombre.
+   2. Rellena la casilla Nombre y selecciona las celdas que deseas incluir en el rango.
+   3. Haz clic en Aceptar.
+   4. Selecciona una celda para la suma y usa la función SUMA(primera celda:última celda) o SUMA(nombre del rango).
+
+Insertar Funciones:
+   1. Selecciona una celda en la hoja de cálculo.
+   2. Ve a Fórmulas y haz clic en Insertar función.
+   3. Elige una categoría de la lista de funciones.
+   4. Selecciona una función y haz clic en Aceptar.
+   5. Introduce los argumentos necesarios en el cuadro de diálogo y haz clic en Aceptar.
+
+Funciones de Texto:
+   1. Selecciona una celda para aplicar la función de texto.
+   2. Ve a Fórmulas > Insertar función.
+   3. Elige la categoría Texto.
+   4. Selecciona una función (como IZQUIERDA, DERECHA, MAYUSC, etc.) e introduce los argumentos requeridos.
+   5. Haz clic en Aceptar.
+
+Funciones Lógicas:
+   1. Selecciona una celda para aplicar la función lógica.
+   2. Ve a Fórmulas > Insertar función.
+   3. Elige la categoría Lógicas.
+   4. Selecciona una función lógica (como SI, Y, O) e introduce los argumentos requeridos.
+   5. Haz clic en Aceptar.
+
+Usar Referencias:
+   1. Selecciona la celda donde deseas hacer la referencia.
+   2. Escribe = para comenzar una fórmula.
+   3. Haz clic en la celda a la que deseas hacer referencia o escribe su dirección (ejemplo: A1).
+   4. Presiona Enter para completar la referencia.
+   5. Usa referencias relativas, absolutas o mixtas según sea necesario (por ejemplo, $A$1 para una referencia absoluta).
+
+Crear Vista Preliminar:
+   1. Ve a la pestaña Archivo.
+   2. Haz clic en Imprimir y selecciona Vista previa de impresión.
+   3. Revisa cómo se verá tu hoja al imprimir.
+
+Crear una Vista de Diseño de Página:
+   1. Ve a la pestaña Vista.
+   2. Haz clic en Diseño de página.
+   3. Ajusta los elementos de la hoja según sea necesario.
+   4. Visualiza cómo se verán los datos al imprimir y realiza cambios adicionales si es necesario.
