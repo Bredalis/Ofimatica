@@ -3,41 +3,41 @@
 Comandos para trabajar con el programa ofimático de Excel
 
 
-Abrir nuevo archivo:  
+Abrir nuevo archivo:
 	Ir a Archivo > Nuevo > Libro en blanco.
 
-Guardar el archivo:  
+Guardar el archivo: 
 	Presiona Ctrl + S o ve a Archivo > Guardar como para guardarlo en la ubicación deseada.
 
-Ordenar datos:  
+Ordenar datos:
 	Selecciona los datos y ve a Datos > Ordenar para ordenarlos de A a Z o de mayor a menor.
 
-Combinar celdas:  
+Combinar celdas:
 	Selecciona las celdas que deseas combinar y, en la pestaña Inicio, haz clic en Combinar y centrar.
 
 Búsqueda rápida:  
 	Presiona Ctrl + F.
 
-Ir a una celda específica:  
+Ir a una celda específica:
 	Presiona Ctrl + G.
 
-Crear un gráfico de barras:  
-	1. Selecciona los datos que deseas graficar.  
-	2. Ve a la pestaña Insertar.  
-	3. En el grupo Gráficos, selecciona Gráfico de barras.  
-	4. Elige el tipo de barra.  
-	5. El gráfico se generará automáticamente en tu hoja.  
-	6. Personaliza el gráfico desde las opciones de diseño.
+Crear un gráfico de barras:
+	Selecciona los datos que deseas graficar. 
+	Ve a la pestaña Insertar.
+	En el grupo Gráficos, selecciona Gráfico de barras.
+	Elige el tipo de barra.
+	El gráfico se generará automáticamente en tu hoja.
+	Personaliza el gráfico desde las opciones de diseño.
 
-Crear una tabla:  
+Crear una tabla:
 	Selecciona los datos y ve a Insertar > Tabla.
 
-Cambiar el estilo de una tabla:  
-	1. Selecciona la tabla.  
-	2. Ve a la pestaña Diseño de tabla.  
-	3. En el grupo Estilos de tabla, selecciona el estilo que prefieras.  
-	4. Si deseas más opciones, haz clic en Más.  
-	5. La tabla cambiará al estilo seleccionado.
+Cambiar el estilo de una tabla:
+	Selecciona la tabla.
+	Ve a la pestaña Diseño de tabla.
+	En el grupo Estilos de tabla, selecciona el estilo que prefieras.
+	Si deseas más opciones, haz clic en Más.
+	La tabla cambiará al estilo seleccionado.
 
 Ajustar el zoom y la vista:  
 	En Vista, ajusta el nivel de zoom o selecciona diferentes vistas como Normal, Diseño de página, o Vista previa de salto de página.
@@ -58,12 +58,12 @@ Insertar datos:
 	Selecciona una celda > Escribe el dato > Presiona Enter o selecciona otra celda para continuar.
 
 Proteger una hoja:  
-	1. Abre la hoja que deseas proteger.  
-	2. Ve a la pestaña Revisar.  
-	3. Haz clic en Proteger hoja.  
-	4. Selecciona las opciones deseadas (ej. proteger celdas bloqueadas).  
-	5. Ingresa una contraseña (opcional) y confirma.  
-	6. Haz clic en Aceptar.
+	Abre la hoja que deseas proteger.  
+	Ve a la pestaña Revisar.  
+	Haz clic en Proteger hoja.  
+	Selecciona las opciones deseadas (ej. proteger celdas bloqueadas).  
+	Ingresa una contraseña (opcional) y confirma.  
+	Haz clic en Aceptar.
 
 Insertar hojas:  
 	Haz clic en el ícono + en las pestañas de las hojas, o haz clic derecho en una pestaña existente y selecciona Insertar.
@@ -91,9 +91,9 @@ Navegar con el teclado:
 	Presiona Ctrl + G, ingresa el nombre de la hoja seguido de una celda (ej. Hoja2!A1) y presiona Enter.
 
 Inmovilizar paneles:  
-	1. Abre la pestaña Vista.  
-	2. Haz clic en Inmovilizar.  
-	3. Elige una opción:
+	Abre la pestaña Vista.  
+	Haz clic en Inmovilizar.  
+	Elige una opción:
 	   - Inmovilizar paneles: Fija filas y columnas seleccionadas.
 	   - Inmovilizar fila superior: Mantén visible la primera fila.
 	   - Inmovilizar primera columna: Mantén visible la primera columna.
@@ -102,14 +102,14 @@ Quitar la inmovilización:
 	Ve a Vista > Inmovilizar > Liberar paneles.
 
 Eliminar varias hojas continuas:  
-	1. Haz clic en la primera hoja.  
-	2. Mantén presionada Shift.  
-	3. Haz clic en la última hoja > Haz clic derecho > Selecciona Eliminar.
+	Haz clic en la primera hoja.  
+	Mantén presionada Shift.  
+	Haz clic en la última hoja > Haz clic derecho > Selecciona Eliminar.
 
 Eliminar varias hojas no continuas:  
-	1. Haz clic en la primera hoja.  
-	2. Mantén presionada Ctrl.  
-	3. Haz clic en las hojas adicionales > Haz clic derecho > Selecciona Eliminar.
+	Haz clic en la primera hoja.  
+	Mantén presionada Ctrl.  
+	Haz clic en las hojas adicionales > Haz clic derecho > Selecciona Eliminar.
 
 Abrir plantilla:  
 	Ve a Archivo > Nuevo, selecciona una plantilla o búscala en la barra de búsqueda.
@@ -220,10 +220,10 @@ Borrar varios datos a la vez:
 	Selecciona las celdas y presiona Delete para eliminarlas.
 
 Crear una lista desplegable:
-	1. Selecciona las celdas donde quieres la lista.
-	2. Ve a Datos > Validación de datos.
-	3. Elige Lista y especifica los valores (escríbelos separados por comas o selecciona un rango de celdas).
-	4. Haz clic en Aceptar.
+	Selecciona las celdas donde quieres la lista.
+	Ve a Datos > Validación de datos.
+	Elige Lista y especifica los valores (escríbelos separados por comas o selecciona un rango de celdas).
+	Haz clic en Aceptar.
 
 Usar la lista:
 	Haz clic en la celda con la lista, luego en la flecha desplegable, y selecciona un valor.
@@ -240,224 +240,224 @@ Ordenar y Filtrar datos:
 	- Para filtrar: Selecciona el rango de celdas, ve a Datos > Filtro y usa las flechas de los encabezados para aplicar filtros.
 
 Aplicar Autofiltros:
-	1. Selecciona el rango.
-	2. Ve a Datos > Filtro y usa las flechas desplegables en los encabezados para elegir filtros.
+	Selecciona el rango.
+	Ve a Datos > Filtro y usa las flechas desplegables en los encabezados para elegir filtros.
 
 Importar archivos:
-	1. Ve a Datos > Obtener y transformar datos.
-	2. Elige el origen (texto/CSV, otro libro de Excel, web, o base de datos).
-	3. Sigue las instrucciones del asistente y haz clic en Cargar.
+	Ve a Datos > Obtener y transformar datos.
+	Elige el origen (texto/CSV, otro libro de Excel, web, o base de datos).
+	Sigue las instrucciones del asistente y haz clic en Cargar.
 
 Establecer subtotales:
-	1. Selecciona los datos y ordénalos.
-	2. Ve a Datos > Subtotal.
-	3. Elige la columna y función (como Suma).
-	4. Usa los botones de nivel para ocultar o ver los subtotales.
+	Selecciona los datos y ordénalos.
+	Ve a Datos > Subtotal.
+	Elige la columna y función (como Suma).
+	Usa los botones de nivel para ocultar o ver los subtotales.
 
 Cambiar formato de texto:
 	Selecciona una celda, ve a Inicio > Fuente y usa los iconos para aplicar Negrita, Cursiva, o Subrayado.
 
 Cambiar el tamaño y tipo de fuente:
-  1. Selecciona la celda.
-  2. Ve a la pestaña Inicio, en la sección Fuente.
-  3. Elige el tipo de letra y tamaño desde los menús desplegables.
+  Selecciona la celda.
+  Ve a la pestaña Inicio, en la sección Fuente.
+  Elige el tipo de letra y tamaño desde los menús desplegables.
 
 Cambiar color de fondo (relleno) de una celda:
-  1. Selecciona la celda.
-  2. Ve a la pestaña Inicio > Fuente.
-  3. Haz clic en el icono del cubo de pintura y selecciona un color.
+  Selecciona la celda.
+  Ve a la pestaña Inicio > Fuente.
+  Haz clic en el icono del cubo de pintura y selecciona un color.
 
 Cambiar color de texto:
-  1. Selecciona la celda.
-  2. Ve a la pestaña Inicio > Fuente.
-  3. Haz clic en el icono A subrayada y selecciona un color.
+  Selecciona la celda.
+  Ve a la pestaña Inicio > Fuente.
+  Haz clic en el icono A subrayada y selecciona un color.
 
 Alineación de texto:
-  1. Selecciona la celda.
-  2. Ve a Inicio > Alineación.
-  3. Usa los iconos de alineación (izquierda, centro, derecha) o ajusta la orientación del texto.
+  Selecciona la celda.
+  Ve a Inicio > Alineación.
+  Usa los iconos de alineación (izquierda, centro, derecha) o ajusta la orientación del texto.
 
 Agregar o modificar bordes:
-  1. Selecciona la celda.
-  2. Ve a Inicio > Fuente.
-  3. Haz clic en el icono de bordes y selecciona el tipo de borde (todos, superior, inferior, etc.).
+  Selecciona la celda.
+  Ve a Inicio > Fuente.
+  Haz clic en el icono de bordes y selecciona el tipo de borde (todos, superior, inferior, etc.).
 
 Combinar celdas:
-  1. Selecciona las celdas.
-  2. Ve a Inicio > Alineación.
-  3. Haz clic en Combinar y centrar.
+  Selecciona las celdas.
+  Ve a Inicio > Alineación.
+  Haz clic en Combinar y centrar.
 
 Agregar comentario:
-  1. Selecciona la celda.
-  2. Haz clic derecho y selecciona Nuevo comentario.
-  3. Escribe el comentario y haz clic fuera para guardarlo.
+  Selecciona la celda.
+  Haz clic derecho y selecciona Nuevo comentario.
+  Escribe el comentario y haz clic fuera para guardarlo.
 
 Agregar una nota:
-  1. Selecciona la celda.
-  2. Haz clic derecho y selecciona Insertar nota.
+  Selecciona la celda.
+  Haz clic derecho y selecciona Insertar nota.
 
 Aplicar estilo de celda:
-  1. Selecciona las celdas.
-  2. Ve a Inicio > Estilos de celda.
-  3. Elige un estilo o crea uno nuevo.
+  Selecciona las celdas.
+  Ve a Inicio > Estilos de celda.
+  Elige un estilo o crea uno nuevo.
 
 Resaltar celdas con reglas predefinidas:
-  1. Selecciona las celdas.
-  2. Ve a Inicio > Formato condicional > Resaltar reglas de celdas.
-  3. Elige una opción como "Mayor que" o "Menor que", ingresa los valores y selecciona el formato.
+  Selecciona las celdas.
+  Ve a Inicio > Formato condicional > Resaltar reglas de celdas.
+  Elige una opción como "Mayor que" o "Menor que", ingresa los valores y selecciona el formato.
 
 Aplicar barras de datos:
-  1. Selecciona las celdas.
-  2. Ve a Inicio > Formato condicional > Barras de datos.
-  3. Elige un color y estilo.
+  Selecciona las celdas.
+  Ve a Inicio > Formato condicional > Barras de datos.
+  Elige un color y estilo.
 
 Escalas de color:
-  1. Selecciona las celdas.
-  2. Ve a Inicio > Formato condicional > Escalas de color.
-  3. Selecciona una escala de colores (2 o 3 colores).
+  Selecciona las celdas.
+  Ve a Inicio > Formato condicional > Escalas de color.
+  Selecciona una escala de colores (2 o 3 colores).
 
 Crear regla personalizada:
-  1. Selecciona las celdas.
-  2. Ve a Inicio > Formato condicional > Nueva regla.
-  3. Define las condiciones y el formato.
+  Selecciona las celdas.
+  Ve a Inicio > Formato condicional > Nueva regla.
+  Define las condiciones y el formato.
 
 Borrar formato condicional:
-  1. Selecciona las celdas.
-  2. Ve a Inicio > Formato condicional > Borrar reglas.
+  Selecciona las celdas.
+  Ve a Inicio > Formato condicional > Borrar reglas.
 
 Cambiar el formato de números:
-  1. Selecciona las celdas con números.
-  2. Ve a la pestaña Inicio.
-  3. Elige un formato de número desde el menú desplegable (Moneda, Porcentaje, Fecha, etc.).
+  Selecciona las celdas con números.
+  Ve a la pestaña Inicio.
+  Elige un formato de número desde el menú desplegable (Moneda, Porcentaje, Fecha, etc.).
 
 Gráficas:
-  1. Selecciona los datos que deseas graficar.
-  2. Ve a la pestaña Insertar.
-  3. Elige el tipo de gráfica que deseas (Columnas, Barras, Líneas, Circular, Dispersión).
+  Selecciona los datos que deseas graficar.
+  Ve a la pestaña Insertar.
+  Elige el tipo de gráfica que deseas (Columnas, Barras, Líneas, Circular, Dispersión).
 
 Restar una fecha con la actual:
-  1. Ingresa la fórmula =HOY()-"Día/Mes/Año".
-  2. Cambia el formato de la celda a Fecha si es necesario.
+  Ingresa la fórmula =HOY()-"Día/Mes/Año".
+  Cambia el formato de la celda a Fecha si es necesario.
 
 Gráfica de Áreas:
-   1. Selecciona los datos.
-   2. Ve a la pestaña Insertar.
-   3. Haz clic en Gráfica de áreas.
-   4. Selecciona el tipo de gráfica que desees (simples, apiladas, 3D).
+   Selecciona los datos.
+   Ve a la pestaña Insertar.
+   Haz clic en Gráfica de áreas.
+   Selecciona el tipo de gráfica que desees (simples, apiladas, 3D).
 
 Gráfica de Cascada:
-   1. Selecciona los datos.
-   2. Ve a Insertar > Cascada y Bursátil en el grupo de gráficas.
-   3. Escoge la opción de Gráfica de cascada.
+   Selecciona los datos.
+   Ve a Insertar > Cascada y Bursátil en el grupo de gráficas.
+   Escoge la opción de Gráfica de cascada.
 
 Gráfica de Mapas:
-   1. Selecciona los datos que contienen información geográfica (ciudades, países, etc.).
-   2. Ve a Insertar > Mapa.
-   3. Excel generará automáticamente un mapa basado en los datos seleccionados.
+   Selecciona los datos que contienen información geográfica (ciudades, países, etc.).
+   Ve a Insertar > Mapa.
+   Excel generará automáticamente un mapa basado en los datos seleccionados.
 
 Gráfica de Combo:
-   1. Selecciona los datos.
-   2. Ve a Insertar > Gráfica combinada.
-   3. Selecciona los tipos de gráficas que deseas combinar (por ejemplo, columnas y líneas).
+   Selecciona los datos.
+   Ve a Insertar > Gráfica combinada.
+   Selecciona los tipos de gráficas que deseas combinar (por ejemplo, columnas y líneas).
 
 Insertar una imagen desde la web:
-   1. Ve a Insertar > Imágenes.
-   2. Selecciona Buscar imágenes en línea (puede ser Bing Imágenes u otro).
-   3. Busca la imagen que deseas y haz clic en Insertar.
+   Ve a Insertar > Imágenes.
+   Selecciona Buscar imágenes en línea (puede ser Bing Imágenes u otro).
+   Busca la imagen que deseas y haz clic en Insertar.
 
 Insertar una imagen desde el dispositivo:
-   1. Ve a Insertar > Imágenes > Este dispositivo.
-   2. Busca la imagen en tu computadora y selecciona Abrir.
+   Ve a Insertar > Imágenes > Este dispositivo.
+   Busca la imagen en tu computadora y selecciona Abrir.
 
 Mover y cambiar el tamaño de una imagen:
-   1. Haz clic en la imagen para seleccionarla.
-   2. Para moverla, arrástrala a la nueva ubicación.
-   3. Para cambiar el tamaño, arrastra uno de los controladores en las esquinas de la imagen.
+   Haz clic en la imagen para seleccionarla.
+   Para moverla, arrástrala a la nueva ubicación.
+   Para cambiar el tamaño, arrastra uno de los controladores en las esquinas de la imagen.
 
 Eliminar una imagen:
    Selecciona la imagen y presiona la tecla Suprimir o Del.
 
 Editar imágenes:
-   1. Selecciona la imagen.
-   2. Aparecerá la pestaña Formato de imagen en la barra de herramientas.
-   3. Usa las opciones disponibles (cortar, girar, ajustar el brillo, etc.).
+   Selecciona la imagen.
+   Aparecerá la pestaña Formato de imagen en la barra de herramientas.
+   Usa las opciones disponibles (cortar, girar, ajustar el brillo, etc.).
 
 Insertar un vínculo a una página web:
-   1. Selecciona la celda donde deseas insertar el vínculo.
-   2. Ve a Insertar > Vínculo.
-   3. Escribe la URL o selecciona un archivo.
-   4. Haz clic en Insertar.
+   Selecciona la celda donde deseas insertar el vínculo.
+   Ve a Insertar > Vínculo.
+   Escribe la URL o selecciona un archivo.
+   Haz clic en Insertar.
 
 Insertar un vínculo a otra hoja de cálculo:
-   1. Selecciona la celda.
-   2. Ve a Insertar > Vínculo > Colocar en este documento.
-   3. Elige la hoja a la que deseas vincular y haz clic en Aceptar.
+   Selecciona la celda.
+   Ve a Insertar > Vínculo > Colocar en este documento.
+   Elige la hoja a la que deseas vincular y haz clic en Aceptar.
 
 Eliminar un vínculo:
-   1. Haz clic derecho en la celda que contiene el vínculo.
-   2. Selecciona Eliminar vínculo.
+   Haz clic derecho en la celda que contiene el vínculo.
+   Selecciona Eliminar vínculo.
 
 Quitar formato de un hipervínculo:
-   1. Selecciona la celda y haz clic derecho.
-   2. Elige Quitar hipervínculo. Esto eliminará el formato de enlace, pero dejará el texto.
+   Selecciona la celda y haz clic derecho.
+   Elige Quitar hipervínculo. Esto eliminará el formato de enlace, pero dejará el texto.
 
 Nombrar un rango de celdas:
-   1. Selecciona el rango de celdas.
-   2. Ve a Fórmulas > Asignar nombre.
-   3. Escribe el nombre y haz clic en Aceptar.
+   Selecciona el rango de celdas.
+   Ve a Fórmulas > Asignar nombre.
+   Escribe el nombre y haz clic en Aceptar.
 
 Nombrar una celda:
-   1. Selecciona la celda.
-   2. Haz clic derecho y selecciona Definir nombre.
-   3. Escribe el nombre y presiona Aceptar.
+   Selecciona la celda.
+   Haz clic derecho y selecciona Definir nombre.
+   Escribe el nombre y presiona Aceptar.
 
 Ver los Nombres de Rangos:
-   1. Ve a Fórmulas.
-   2. Haz clic en Administrador de nombres.
-   3. Puedes elegir Nuevo (para crear un rango), Modificar (para cambiar un valor existente) o Eliminar (para borrar un rango).
-   4. Haz clic en Cerrar para salir del administrador.
+   Ve a Fórmulas.
+   Haz clic en Administrador de nombres.
+   Puedes elegir Nuevo (para crear un rango), Modificar (para cambiar un valor existente) o Eliminar (para borrar un rango).
+   Haz clic en Cerrar para salir del administrador.
 
 Usar un Rango (Ejemplo: Para Sumar):
-   1. Ve a Fórmulas > Asignar nombre.
-   2. Rellena la casilla Nombre y selecciona las celdas que deseas incluir en el rango.
-   3. Haz clic en Aceptar.
-   4. Selecciona una celda para la suma y usa la función SUMA(primera celda:última celda) o SUMA(nombre del rango).
+   Ve a Fórmulas > Asignar nombre.
+   Rellena la casilla Nombre y selecciona las celdas que deseas incluir en el rango.
+   Haz clic en Aceptar.
+   Selecciona una celda para la suma y usa la función SUMA(primera celda:última celda) o SUMA(nombre del rango).
 
 Insertar Funciones:
-   1. Selecciona una celda en la hoja de cálculo.
-   2. Ve a Fórmulas y haz clic en Insertar función.
-   3. Elige una categoría de la lista de funciones.
-   4. Selecciona una función y haz clic en Aceptar.
-   5. Introduce los argumentos necesarios en el cuadro de diálogo y haz clic en Aceptar.
+   Selecciona una celda en la hoja de cálculo.
+   Ve a Fórmulas y haz clic en Insertar función.
+   Elige una categoría de la lista de funciones.
+   Selecciona una función y haz clic en Aceptar.
+   Introduce los argumentos necesarios en el cuadro de diálogo y haz clic en Aceptar.
 
 Funciones de Texto:
-   1. Selecciona una celda para aplicar la función de texto.
-   2. Ve a Fórmulas > Insertar función.
-   3. Elige la categoría Texto.
-   4. Selecciona una función (como IZQUIERDA, DERECHA, MAYUSC, etc.) e introduce los argumentos requeridos.
-   5. Haz clic en Aceptar.
+   Selecciona una celda para aplicar la función de texto.
+   Ve a Fórmulas > Insertar función.
+   Elige la categoría Texto.
+   Selecciona una función (como IZQUIERDA, DERECHA, MAYUSC, etc.) e introduce los argumentos requeridos.
+   Haz clic en Aceptar.
 
 Funciones Lógicas:
-   1. Selecciona una celda para aplicar la función lógica.
-   2. Ve a Fórmulas > Insertar función.
-   3. Elige la categoría Lógicas.
-   4. Selecciona una función lógica (como SI, Y, O) e introduce los argumentos requeridos.
-   5. Haz clic en Aceptar.
+   Selecciona una celda para aplicar la función lógica.
+   Ve a Fórmulas > Insertar función.
+   Elige la categoría Lógicas.
+   Selecciona una función lógica (como SI, Y, O) e introduce los argumentos requeridos.
+   Haz clic en Aceptar.
 
 Usar Referencias:
-   1. Selecciona la celda donde deseas hacer la referencia.
-   2. Escribe = para comenzar una fórmula.
-   3. Haz clic en la celda a la que deseas hacer referencia o escribe su dirección (ejemplo: A1).
-   4. Presiona Enter para completar la referencia.
-   5. Usa referencias relativas, absolutas o mixtas según sea necesario (por ejemplo, $A$1 para una referencia absoluta).
+   Selecciona la celda donde deseas hacer la referencia.
+   Escribe = para comenzar una fórmula.
+   Haz clic en la celda a la que deseas hacer referencia o escribe su dirección (ejemplo: A1).
+   Presiona Enter para completar la referencia.
+   Usa referencias relativas, absolutas o mixtas según sea necesario (por ejemplo, $A$1 para una referencia absoluta).
 
 Crear Vista Preliminar:
-   1. Ve a la pestaña Archivo.
-   2. Haz clic en Imprimir y selecciona Vista previa de impresión.
-   3. Revisa cómo se verá tu hoja al imprimir.
+   Ve a la pestaña Archivo.
+   Haz clic en Imprimir y selecciona Vista previa de impresión.
+   Revisa cómo se verá tu hoja al imprimir.
 
 Crear una Vista de Diseño de Página:
-   1. Ve a la pestaña Vista.
-   2. Haz clic en Diseño de página.
-   3. Ajusta los elementos de la hoja según sea necesario.
-   4. Visualiza cómo se verán los datos al imprimir y realiza cambios adicionales si es necesario.
+   Ve a la pestaña Vista.
+   Haz clic en Diseño de página.
+   Ajusta los elementos de la hoja según sea necesario.
+   Visualiza cómo se verán los datos al imprimir y realiza cambios adicionales si es necesario.

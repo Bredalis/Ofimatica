@@ -1,0 +1,133 @@
+
+
+Comandos para trabajar con el programa ofimático de Word Microsoft 365
+
+
+Abrir nuevo archivo:
+	Ve a Microsoft Word para la web.
+	Inicia sesión con tu cuenta de Microsoft.
+	En la página principal, selecciona Word.
+	Haz clic en Abrir desde OneDrive o selecciona un archivo reciente.
+	También puedes cargar un archivo desde tu computadora haciendo clic en Subir y abrir.
+
+Guardar una copia:
+	Haz clic en Archivo en el menú superior.
+	Selecciona Guardar como.
+	Elige una opción:
+	Guardar como copia: Guarda otra versión en OneDrive.
+	Descargar una copia: Descarga el archivo a tu computadora.
+	Descargar como PDF: Guarda el archivo como PDF.
+
+Renombrar el nombre del documento:
+	Haz clic en el nombre del documento en la parte superior (generalmente "Documento sin título" o el nombre actual del archivo).
+	Escribe el nuevo nombre y presiona Enter.
+
+Salto de línea (dentro del mismo párrafo):
+	Presiona Shift + Enter.
+
+Salto de párrafo (nuevo párrafo):
+	Presiona Enter.
+
+Crear un nuevo documento: 
+	Ctrl + N
+
+Abrir un documento existente:
+	Ctrl + O
+
+Guardar el documento actual:
+	Ctrl + S
+
+Imprimir el documento:
+	Ctrl + P
+
+Deshacer la última acción:
+	Ctrl + Z
+
+Rehacer la acción deshecha:
+	Ctrl + Y
+
+Seleccionar todo el contenido del documento:
+	Ctrl + A
+
+Buscar palabras o frases en el documento:
+	Ctrl + F
+
+Reemplazar palabras o frases: 
+	Ctrl + H
+
+Poner el texto en negrita:
+	Ctrl + B
+
+Poner el texto en cursiva:
+	Ctrl + I
+
+Subrayar el texto seleccionado: 
+	Ctrl + U
+
+Alinear texto a la izquierda:
+	Ctrl + L
+
+Alinear texto al centro:
+	Ctrl + E
+
+Alinear texto a la derecha:
+	Ctrl + R
+
+Justificar el texto:
+	Ctrl + J
+
+Crear sangría para el párrafo:
+	Ctrl + T
+
+Alinear texto a la izquierda:
+	Ctrl + L
+
+Alinear texto al centro:
+	Ctrl + E
+
+Alinear texto a la derecha:
+	Ctrl + R
+
+Quitar sangría en el párrafo: 
+	Ctrl + Shift + T
+
+Agregar espacio antes del párrafo: 
+	Diseño > Espaciado antes
+
+Agregar espacio después del párrafo: 
+	Diseño > Espaciado después
+
+Cambiar el interlineado del párrafo:
+	Ctrl + 1 (sencillo), Ctrl + 2 (doble), Ctrl + 5 (1.5 líneas).
+
+Aumentar sangría del párrafo:
+	Ctrl + M
+
+Disminuir sangría del párrafo:
+	Ctrl + Shift + M
+
+Insertar una imagen:
+	Haz clic en Insertar > Imágenes.
+	Selecciona la fuente (dispositivo o en línea).
+	Elige y haz clic en Insertar.
+
+Redimensionar imagen:
+   Haz clic en la imagen y usa las esquinas para ajustarla.
+
+Mover imagen:
+   Haz clic en la imagen y arrástrala a la ubicación deseada.
+
+Ajustar el texto alrededor de la imagen:
+   Haz clic derecho en la imagen > Ajuste de texto y elige una opción (por ejemplo, "Cuadrado" o "Delante del texto").
+
+Rotar la imagen:
+   Haz clic en la imagen y usa el círculo verde en la parte superior para rotarla.
+
+Recortar la imagen:
+   Haz clic en la imagen > Formato de imagen > Recortar. Ajusta los bordes como desees.
+
+Aplicar efectos o estilos:  
+   Haz clic en la imagen > Formato de imagen > elige Estilos de imagen o Efectos de imagen.
+
+Cambiar la posición de la imagen:  
+   Usa las herramientas de alineación en Formato de imagen para ajustar la posición.
