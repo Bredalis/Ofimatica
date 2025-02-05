@@ -1,0 +1,219 @@
+
+
+Comandos para trabajar con el programa Paint  
+
+
+Comandos Generales  
+
+Crear un nuevo archivo:  
+   Ctrl + N  
+
+Abrir una imagen existente:  
+   Ctrl + O  
+
+Guardar la imagen actual:  
+   Ctrl + S  
+
+Imprimir la imagen:  
+   Ctrl + P  
+
+Cerrar la imagen actual:  
+   Ctrl + W  
+
+Cerrar Paint:  
+   Alt + F4  
+
+Deshacer la última acción:  
+   Ctrl + Z  
+
+Rehacer la última acción:  
+   Ctrl + Y  
+
+
+Comandos de Formato de Texto  
+
+Poner el texto en negrita:  
+   Ctrl + B  
+
+Poner el texto en cursiva:  
+   Ctrl + I  
+
+Subrayar el texto:  
+   Ctrl + U  
+
+Alinear el texto al centro:  
+   Ctrl + E  
+
+Alinear el texto a la izquierda:  
+   Ctrl + L  
+
+Alinear el texto a la derecha:  
+   Ctrl + R  
+
+Abrir el cuadro de diálogo de fuente para cambiar el estilo de letra:  
+   Ctrl + Shift + P  
+
+
+Comandos para Dibujar y Editar  
+
+Seleccionar todo el contenido:  
+   Ctrl + A  
+
+Copiar la selección:  
+   Ctrl + C  
+
+Cortar la selección:  
+   Ctrl + X  
+
+Pegar la selección copiada o cortada:  
+   Ctrl + V  
+
+Eliminar la selección:  
+   Supr  
+
+Desplazar la selección con precisión:  
+   Flechas del teclado  
+
+Dibujar una línea recta:  
+   Shift + Arrastrar  
+
+Dibujar un círculo o cuadrado perfecto:  
+   Shift + Dibujar  
+
+Aumentar el tamaño del pincel:  
+   Ctrl + +  
+
+Reducir el tamaño del pincel:  
+   Ctrl + -  
+
+Rellenar una selección con color:  
+   Ctrl + Shift + B  
+
+
+Comandos para Navegación  
+
+Zoom In (Acercar):  
+   Ctrl + AvPág  
+
+Zoom Out (Alejar):  
+   Ctrl + RePág  
+
+Ajustar la imagen a la pantalla:  
+   Ctrl + Shift + A  
+
+Mostrar/ocultar reglas:  
+   Ctrl + R  
+
+Mostrar/ocultar cuadrícula:  
+   Ctrl + G  
+
+Cambiar entre herramientas:  
+   Tab  
+
+Restaurar el tamaño original de la imagen:  
+   Ctrl + Backspace  
+
+Salir del modo de pantalla completa:  
+   Esc
+
+
+Comandos de Herramientas de Dibujo  
+
+Seleccionar la herramienta de lápiz:  
+   P  
+
+Seleccionar la herramienta de pincel:  
+   B  
+
+Seleccionar la herramienta de aerógrafo:  
+   A  
+
+Seleccionar la herramienta de línea:  
+   L  
+
+Seleccionar la herramienta de curva:  
+   C  
+
+Seleccionar la herramienta de rectángulo:  
+   R  
+
+Seleccionar la herramienta de elipse/círculo:  
+   O  
+
+Seleccionar la herramienta de polígono:  
+   Y  
+
+Seleccionar la herramienta de texto:  
+   T  
+
+Seleccionar la herramienta de relleno (bote de pintura):  
+   F  
+
+Seleccionar la herramienta de selección libre:  
+   Ctrl + Shift + X  
+
+Seleccionar la herramienta de selección rectangular:  
+   Ctrl + Shift + R  
+
+
+Comandos para Manipulación de Imagen  
+
+Rotar la imagen 90° a la derecha:  
+   Ctrl + R  
+
+Rotar la imagen 90° a la izquierda:  
+   Ctrl + Shift + R  
+
+Voltear la imagen horizontalmente:  
+   Ctrl + H  
+
+Voltear la imagen verticalmente:  
+   Ctrl + V  
+
+Redimensionar la imagen:  
+   Ctrl + W  
+
+Recortar la selección actual:  
+   Ctrl + Shift + X  
+
+Invertir colores:  
+   Ctrl + I  
+
+Borrar todo el contenido del lienzo:  
+   Ctrl + Shift + N  
+
+
+Comandos para Atajos de Color  
+
+Seleccionar el color primario con la herramienta cuentagotas:  
+   Ctrl + Click izquierdo  
+
+Seleccionar el color secundario con la herramienta cuentagotas:  
+   Ctrl + Click derecho  
+
+Cambiar entre color primario y secundario:  
+   X  
+
+Rellenar con el color primario:  
+   Shift + Click  
+
+Rellenar con el color secundario:  
+   Ctrl + Shift + Click  
+
+
+Comandos de Configuración de Lienzo  
+
+Aumentar el tamaño del lienzo:  
+   Ctrl + Shift + +  
+
+Reducir el tamaño del lienzo:  
+   Ctrl + Shift + -  
+
+Mostrar la cuadrícula:  
+   Ctrl + G  
+
+Mostrar reglas de medición:  
+   Ctrl + R  
+
+Restaurar el tamaño del lienzo a su tamaño original:  
+   Ctrl + Shift + A

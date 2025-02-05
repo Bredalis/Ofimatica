@@ -1,0 +1,243 @@
+
+
+Comandos para trabajar con el programa ofimático de PowerPoint
+
+
+Comandos Generales
+
+Crear una nueva presentación:
+   Ctrl + N
+
+Abrir una presentación existente:  
+   Ctrl + O
+
+Guardar la presentación actual:  
+   Ctrl + S
+
+Imprimir la presentación:  
+   Ctrl + P
+
+Cerrar la presentación actual:  
+   Ctrl + W
+
+Cerrar PowerPoint:  
+   Ctrl + Q
+
+Deshacer la última acción:  
+   Ctrl + Z
+
+Rehacer la última acción:  
+   Ctrl + Y
+
+
+Comandos de Formato de Texto
+
+Poner el texto en negrita:  
+   Ctrl + B
+
+Poner el texto en cursiva:  
+   Ctrl + I
+
+Subrayar el texto:  
+   Ctrl + U
+
+Centrar el texto:  
+   Ctrl + E
+
+Alinear el texto a la izquierda:  
+   Ctrl + L
+
+Alinear el texto a la derecha:  
+   Ctrl + R
+
+Abrir el cuadro de diálogo de fuente para cambiar el estilo de letra:  
+   Ctrl + T
+
+
+Comandos para Insertar Elementos
+
+Insertar una nueva diapositiva:  
+   Ctrl + M
+
+Duplicar la diapositiva seleccionada:  
+   Ctrl + D
+
+Insertar un hipervínculo:  
+   Ctrl + K
+
+Copiar el formato de un texto o elemento:  
+   Ctrl + Shift + C
+
+Pegar el formato copiado:  
+   Ctrl + Shift + V
+
+
+Comandos para Navegar por la Presentación
+
+Iniciar la presentación desde el principio:  
+   F5
+
+Iniciar la presentación desde la diapositiva actual:  
+   Shift + F5
+
+Repetir la última animación:  
+   F3
+
+Ir a la diapositiva anterior:  
+   Page Up
+
+Ir a la diapositiva siguiente:  
+   Page Down
+
+Salir de la presentación de diapositivas:  
+   Esc
+
+
+Comandos de Edición y Selección
+
+Seleccionar todo el contenido:  
+   Ctrl + A
+
+Copiar el elemento seleccionado:  
+   Ctrl + C
+
+Cortar el elemento seleccionado:  
+   Ctrl + X
+
+Pegar el elemento copiado o cortado:  
+   Ctrl + V
+
+Eliminar el elemento seleccionado:  
+   Supr
+
+
+Comandos de Vista
+
+Mostrar/ocultar la cinta de opciones:  
+   Ctrl + F1
+
+Cambiar a vista de presentación:  
+   Ctrl + Alt + I
+
+Cambiar a vista de lectura:  
+   Ctrl + Shift + F
+
+
+Comandos Generales
+
+Crear una nueva presentación:  
+   Ctrl + N
+
+Abrir una presentación existente:  
+   Ctrl + O
+
+Guardar la presentación actual:  
+   Ctrl + S
+
+Imprimir la presentación:  
+   Ctrl + P
+
+Cerrar la presentación actual:  
+   Ctrl + W
+
+Cerrar PowerPoint:  
+   Ctrl + Q
+
+Deshacer la última acción:  
+   Ctrl + Z
+
+Rehacer la última acción:  
+   Ctrl + Y
+
+
+Comandos de Formato de Texto
+
+Poner el texto en negrita:  
+   Ctrl + B
+
+Poner el texto en cursiva:  
+   Ctrl + I
+
+Subrayar el texto:  
+   Ctrl + U
+
+Centrar el texto:  
+   Ctrl + E
+
+Alinear el texto a la izquierda:  
+   Ctrl + L
+
+Alinear el texto a la derecha:  
+   Ctrl + R
+
+Abrir el cuadro de diálogo de fuente para cambiar el estilo de letra:  
+   Ctrl + T
+
+
+Comandos para Insertar Elementos
+
+Insertar una nueva diapositiva:  
+   Ctrl + M
+
+Duplicar la diapositiva seleccionada:  
+   Ctrl + D
+
+Insertar un hipervínculo:  
+   Ctrl + K
+
+Copiar el formato de un texto o elemento:  
+   Ctrl + Shift + C
+
+Pegar el formato copiado:  
+   Ctrl + Shift + V
+
+
+Comandos para Navegar por la Presentación
+
+Iniciar la presentación desde el principio:  
+   F5
+
+Iniciar la presentación desde la diapositiva actual:  
+   Shift + F5
+
+Repetir la última animación:  
+   F3
+
+Ir a la diapositiva anterior:  
+   Page Up
+
+Ir a la diapositiva siguiente:  
+   Page Down
+
+Salir de la presentación de diapositivas:  
+   Esc
+
+
+Comandos de Edición y Selección
+
+Seleccionar todo el contenido:  
+   Ctrl + A
+
+Copiar el elemento seleccionado:  
+   Ctrl + C
+
+Cortar el elemento seleccionado:  
+   Ctrl + X
+
+Pegar el elemento copiado o cortado:  
+   Ctrl + V
+
+Eliminar el elemento seleccionado:  
+   Supr
+
+
+Comandos de Vista
+
+Mostrar/ocultar la cinta de opciones:  
+   Ctrl + F1
+
+Cambiar a vista de presentación:  
+   Ctrl + Alt + I
+
+Cambiar a vista de lectura:  
+   Ctrl + Shift + F
